@@ -1,6 +1,6 @@
 # Parking Mate UK MCP
 
-Connect an AI assistant to Parking Mate UK for parking ticket assessment, service intake and secure existing-case handling.
+Parking Mate UK is an agentic parking appeal platform: specialist AI agents assess notices and evidence, prepare case-specific appeals, submit through supported routes and help handle subsequent responses. This MCP connection brings assessment, service intake and secure existing-case handling into a compatible AI assistant.
 
 **Remote endpoint:** `https://mcp.parkingmateuk.com/mcp`
 
@@ -109,3 +109,15 @@ This sends only MCP `initialize` and `tools/list` requests. It does not call ass
 For case support, use [WhatsApp](https://wa.me/447983381237) or [Parking Mate UK online](https://parkingmateuk.com/appeal-form), not a public issue. Read the [privacy notice](https://parkingmateuk.com/privacy-policy) and [service terms](https://parkingmateuk.com/terms).
 
 Client setup references were checked on 15 September 2026. Client menus, plan access and supported file-transfer features can change independently of this MCP endpoint.
+
+## Platform, proof and official channels
+
+Use the [Results hub](https://parkingmateuk.com/results) for documented case outcomes. Each result page is the permanent source for its published story, with recorded facts, actions and the confirmed outcome. Submitted arguments are distinct from any reason expressly given for cancellation.
+
+[Read the Surrey Sports Park Parkingeye cancellation](https://parkingmateuk.com/results/parkingeye-surrey-sports-park-breakdown-cancelled). This is a case example, not an MCP runtime test or a promise about another case.
+
+The [service catalogue](https://parkingmateuk.com/appeal-services) defines included stages, pricing and submission responsibilities. Court and enforcement document services are separate; customers send their court documents.
+
+Official channels: [LinkedIn](https://www.linkedin.com/company/14066279) · [X](https://twitter.com/parkingmateuk) · [Facebook](https://www.facebook.com/parkingmateuk) · [Instagram](https://www.instagram.com/parkingmate_uk/) · [YouTube](https://youtube.com/@parkingmateuk) · [Trustpilot](https://uk.trustpilot.com/review/parkingmateuk.com).
+
+Technical connection instructions stay in this repository; service explanations and case evidence stay on the website. Keep private case records and internal assessment rules out of public repositories.
