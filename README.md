@@ -69,6 +69,8 @@ See [VS Code's MCP documentation](https://code.visualstudio.com/docs/agent-custo
 
 ## Available tools
 
+This repository is the maintained technical reference for Parking Mate UK MCP tools and contracts. Keep contract requirements and integration updates here; the public platform page links to this guide rather than duplicating the tool catalogue.
+
 Discovery checked on **15 September 2026**. Always read the server's current `tools/list` schemas before calling tools; this table is a guide, not a replacement schema.
 
 | Tool | Purpose | Effect |
